@@ -1,0 +1,5 @@
+bootxx.o: \
+  /usr/minix/sys/arch/i386/stand/bootxx/bootxx_minixfs3/../bootxx.S \
+  /usr/minix/sys/arch/i386/stand/bootxx/bootxx_minixfs3/machine/asm.h \
+  /usr/minix/sys/arch/i386/stand/bootxx/bootxx_minixfs3/../../../../../sys/bootblock.h \
+  /usr/minix/sys/arch/i386/stand/bootxx/bootxx_minixfs3/../../lib/boot_params.S
